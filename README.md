@@ -1,10 +1,13 @@
 # Speckle-WillowTwin Integration Placeholder
 
+<img width="876" alt="image" src="https://github.com/specklesystems/speckle_automate-willowtwin/assets/760691/e287278a-8227-4365-9f1e-f774f48d8447">
+
+
 ## Disclaimer: Placeholder Only
-**IMPORTANT: This repository is a placeholder and does not contain functional examples or code. It is intended to represent a conceptual idea for integrating Speckle with WillowTwin in the AEC industry, and is solely for discussion and planning purposes.**
+**IMPORTANT: This repository is a placeholder and does not contain functional examples or code. It represents a conceptual idea for integrating Speckle with WillowTwin in the AEC industry and is solely for discussion and planning purposes.**
 
 ## Overview
-This placeholder repository symbolizes the envisioned integration of Speckle's open data platform with WillowTwin's digital twin technology, aimed at enhancing lifecycle management in AEC projects. The repository currently does not host any implementable solutions, examples, or code.
+This placeholder repository symbolizes the envisioned integration of Speckle's open data platform with WillowTwin's digital twin technology to enhance lifecycle management in AEC projects. The repository currently hosts no implementable solutions, examples, or code.
 
 ## Purpose
 The purpose of this repository is to:
